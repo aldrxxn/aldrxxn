@@ -29,14 +29,8 @@ As a third-year Informatics Engineering student, I am very enthusiastic about Mo
 
 ## ⚡ GitHub Stats
 
-| [![Rafi GitHub stats](https://github-readme-stats.vercel.app/api?username=aldrxxn)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs Aan](https://github-readme-stats.vercel.app/api/top-langs/?username=aldrxxn&layout=compact&)](https://github.com/anuraghazra/github-readme-stats) |
+|![Aan GitHub stats](https://github-readme-stats.vercel.app/api?username=aldrxxn) |![Top Langs Aan](https://github-readme-stats.vercel.app/api/top-langs/?username=aldrxxn&layout=compact&) |
 |---|---|
-
-## 📃 Repositories Title Terms
-
-- For train/exercise : `learn-title-language` / `learn-tools-title-language`
-  - **If tools/language > 1, then write the repo title using most tools and/ language**
-- For study/college/real-project : except than `train/exercise`
 
 ## 🤝 Connect with me :
 
@@ -52,9 +46,10 @@ As a third-year Informatics Engineering student, I am very enthusiastic about Mo
 ### Glad to see you here, hope we can work together!  🙌❤️ &nbsp; 
 
 </div>
-### Hi there 👋
 
 <!--
+### Hi there 👋
+
 **aldrxxn/aldrxxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
